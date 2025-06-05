@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
