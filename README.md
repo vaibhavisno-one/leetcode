@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhavisno-one/leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
