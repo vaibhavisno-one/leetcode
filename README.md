@@ -42,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vaibhavisno-one/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
