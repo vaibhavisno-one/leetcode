@@ -28,12 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/vaibhavisno-one/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
