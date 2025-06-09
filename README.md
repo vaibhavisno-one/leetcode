@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Stack
 |  |
 | ------- |
