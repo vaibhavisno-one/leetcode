@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/vaibhavisno-one/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/vaibhavisno-one/leetcode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
