@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/vaibhavisno-one/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vaibhavisno-one/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vaibhavisno-one/leetcode/tree/master/0070-climbing-stairs) |
+| [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
