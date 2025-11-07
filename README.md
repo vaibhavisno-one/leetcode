@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/vaibhavisno-one/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vaibhavisno-one/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavisno-one/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/vaibhavisno-one/leetcode/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/vaibhavisno-one/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavisno-one/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/vaibhavisno-one/leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaibhavisno-one/leetcode/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
