@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/vaibhavisno-one/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vaibhavisno-one/leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/vaibhavisno-one/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 ## Stack
@@ -191,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
