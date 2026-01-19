@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vaibhavisno-one/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaibhavisno-one/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vaibhavisno-one/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/vaibhavisno-one/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaibhavisno-one/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
