@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/vaibhavisno-one/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vaibhavisno-one/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavisno-one/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vaibhavisno-one/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
