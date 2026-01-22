@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vaibhavisno-one/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vaibhavisno-one/leetcode/tree/master/0070-climbing-stairs) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
@@ -223,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/vaibhavisno-one/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
