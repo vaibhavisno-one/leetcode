@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vaibhavisno-one/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/vaibhavisno-one/leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
 ## Math
 |  |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/vaibhavisno-one/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vaibhavisno-one/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/vaibhavisno-one/leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
 ## Greedy
@@ -245,5 +247,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/vaibhavisno-one/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/vaibhavisno-one/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/vaibhavisno-one/leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
