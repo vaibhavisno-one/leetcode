@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/vaibhavisno-one/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/vaibhavisno-one/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vaibhavisno-one/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vaibhavisno-one/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vaibhavisno-one/leetcode/tree/master/0231-power-of-two) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vaibhavisno-one/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vaibhavisno-one/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
