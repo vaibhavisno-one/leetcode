@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/vaibhavisno-one/leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -253,4 +254,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/vaibhavisno-one/leetcode/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vaibhavisno-one/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
