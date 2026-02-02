@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1720-decode-xored-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vaibhavisno-one/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/vaibhavisno-one/leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/vaibhavisno-one/leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/vaibhavisno-one/leetcode/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1720-decode-xored-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vaibhavisno-one/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
