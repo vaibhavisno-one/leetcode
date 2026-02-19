@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vaibhavisno-one/leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/vaibhavisno-one/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vaibhavisno-one/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vaibhavisno-one/leetcode/tree/master/0118-pascals-triangle) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/vaibhavisno-one/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vaibhavisno-one/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/vaibhavisno-one/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vaibhavisno-one/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vaibhavisno-one/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
