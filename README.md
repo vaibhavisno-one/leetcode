@@ -287,4 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vaibhavisno-one/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
