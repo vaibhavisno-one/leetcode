@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/vaibhavisno-one/leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vaibhavisno-one/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavisno-one/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vaibhavisno-one/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vaibhavisno-one/leetcode/tree/master/0118-pascals-triangle) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaibhavisno-one/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavisno-one/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/vaibhavisno-one/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavisno-one/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
