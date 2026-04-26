@@ -1,12 +1,13 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
         
-        merged= [item for sublist in matrix for item in sublist]
-
-        if target  in merged:
-            return True
+        for row in matrix:
+            for val in row:
+                if val==target:
+                    return True
+                else:
+                    continue
+            
+        return False
         
-        else:
-            return False
-
-        return -1
+        
