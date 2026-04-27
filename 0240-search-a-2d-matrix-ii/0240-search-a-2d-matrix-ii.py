@@ -1,12 +1,27 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
         
-        merged= [item for sublist in matrix for item in sublist]
+        merged= [item for row in matrix for item in row]
 
-        if target  in merged:
-            return True
+
+        merged.sort()
+        low=0
+        high=len(merged)-1
+
+        while(low<=high):
+            mid=(low+high)//2
+
+            if merged[mid]==target:
+                return True
+            
+            elif merged[mid]>target:
+                high=mid-1
+            else:
+                low=mid+1
+            
+        return False
         
-        else:
-            return False
-
+        
         return -1
+
+        
