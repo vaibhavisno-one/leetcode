@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vaibhavisno-one/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1720-decode-xored-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1720-decode-xored-array) |
+| [1901-find-a-peak-element-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vaibhavisno-one/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/vaibhavisno-one/leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavisno-one/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vaibhavisno-one/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhavisno-one/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
