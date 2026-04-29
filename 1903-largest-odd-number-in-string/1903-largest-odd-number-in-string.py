@@ -1,7 +1,6 @@
 class Solution(object):
     def largestOddNumber(self, num):
-        res=""
-        max="0"
+        
 
         for i in range(len(num)-1,-1,-1):
 
