@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/vaibhavisno-one/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vaibhavisno-one/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -316,4 +317,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/vaibhavisno-one/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vaibhavisno-one/leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vaibhavisno-one/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
