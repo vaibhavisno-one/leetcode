@@ -4,19 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count =0
-        candidate=None
-
-        for num in nums:
-
-
-            if count ==0:
-                candidate =num
-
-            if candidate==num:
-                count+=1
-            
-            else:
-                count-=1
-
-        return candidate
+        nums.sort()
+        n = len(nums)-1
+        return nums[n//2]
