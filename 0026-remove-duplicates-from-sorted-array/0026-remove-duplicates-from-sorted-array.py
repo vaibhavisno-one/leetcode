@@ -4,15 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        unique=[]
-
-        for i in nums:
-            if i not in unique:
-                unique.append(i)
 
 
-        for i in range(0,len(unique)):
-            nums[i]=unique[i]
+        k=1
 
+        for i in range(1,len(nums)):
+            if nums[i-1]!=nums[i]:
+                nums[k]=nums[i]
 
-        return len(unique)
+                k+=1
+        
+
+        return k
