@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/vaibhavisno-one/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vaibhavisno-one/leetcode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavisno-one/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/vaibhavisno-one/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vaibhavisno-one/leetcode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/vaibhavisno-one/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vaibhavisno-one/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vaibhavisno-one/leetcode/tree/master/0724-find-pivot-index) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavisno-one/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavisno-one/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/vaibhavisno-one/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vaibhavisno-one/leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/vaibhavisno-one/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/vaibhavisno-one/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavisno-one/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vaibhavisno-one/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vaibhavisno-one/leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/vaibhavisno-one/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
