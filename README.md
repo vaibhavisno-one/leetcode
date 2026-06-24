@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/vaibhavisno-one/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavisno-one/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/vaibhavisno-one/leetcode/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavisno-one/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vaibhavisno-one/leetcode/tree/master/1470-shuffle-the-array) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavisno-one/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/vaibhavisno-one/leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
