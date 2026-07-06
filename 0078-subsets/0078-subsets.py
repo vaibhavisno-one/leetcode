@@ -1,19 +1,17 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans=[]
+        result=[]
 
-        def dfs(index,path):
-            #base case
-            if index==len(nums):
-                ans.append(path[:])
-                return
-            # choose
+        def bck(start, current):
+            result.append(current.copy())
 
-            path.append(nums[index])
-            dfs(index+1,path)
-            path.pop()
+            for i in range(start, len(nums)):
 
-            dfs(index+1,path)
-        dfs(0,[])
+                current.append(nums[i])
 
-        return ans
+                bck(i+1,current)
+                current.pop()
+
+        bck(0,[])
+
+        return result
