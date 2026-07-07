@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vaibhavisno-one/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vaibhavisno-one/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0090-subsets-ii) |
 ## Hash Table
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/vaibhavisno-one/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vaibhavisno-one/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/vaibhavisno-one/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vaibhavisno-one/leetcode/tree/master/0066-plus-one) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavisno-one/leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/vaibhavisno-one/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0148-sort-list) |
