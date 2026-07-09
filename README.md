@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/vaibhavisno-one/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavisno-one/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/vaibhavisno-one/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vaibhavisno-one/leetcode/tree/master/0641-design-circular-deque) |
+| [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/vaibhavisno-one/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vaibhavisno-one/leetcode/tree/master/0704-binary-search) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vaibhavisno-one/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavisno-one/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavisno-one/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -425,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
 | ------- |
@@ -447,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavisno-one/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/vaibhavisno-one/leetcode/tree/master/1046-last-stone-weight) |
