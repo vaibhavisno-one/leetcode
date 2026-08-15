@@ -1,19 +1,12 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        sortedS = "".join(sorted(s))
-        sortedT= "".join(sorted(t))
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        mapS={}
 
+        mapT={}
 
-        if len(sortedS) !=len(sortedT):
-            return False
+        for char in s:
+            mapS[char]=mapS.get(char,0)+1
 
-        if sortedS==sortedT:
-            return True
-        
-        else:
-            return False
+        for char in t:
+            mapT[char] = mapT.get(char,0)+1
+        return mapS==mapT
