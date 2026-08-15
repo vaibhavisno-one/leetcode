@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/vaibhavisno-one/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhavisno-one/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vaibhavisno-one/leetcode/tree/master/0496-next-greater-element-i) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/vaibhavisno-one/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhavisno-one/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/vaibhavisno-one/leetcode/tree/master/0844-backspace-string-compare) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavisno-one/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhavisno-one/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vaibhavisno-one/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/vaibhavisno-one/leetcode/tree/master/0506-relative-ranks) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/vaibhavisno-one/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhavisno-one/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/vaibhavisno-one/leetcode/tree/master/0506-relative-ranks) |
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhavisno-one/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vaibhavisno-one/leetcode/tree/master/0704-binary-search) |
