@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vaibhavisno-one/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/vaibhavisno-one/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vaibhavisno-one/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/0402-remove-k-digits) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavisno-one/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/vaibhavisno-one/leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vaibhavisno-one/leetcode/tree/master/0496-next-greater-element-i) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/vaibhavisno-one/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavisno-one/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/vaibhavisno-one/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
