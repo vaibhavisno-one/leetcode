@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhavisno-one/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhavisno-one/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
