@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavisno-one/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavisno-one/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavisno-one/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavisno-one/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavisno-one/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavisno-one/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavisno-one/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavisno-one/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -565,4 +568,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhavisno-one/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavisno-one/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
