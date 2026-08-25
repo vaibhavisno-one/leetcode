@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/vaibhavisno-one/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vaibhavisno-one/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/vaibhavisno-one/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vaibhavisno-one/leetcode/tree/master/0125-valid-palindrome) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vaibhavisno-one/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/vaibhavisno-one/leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhavisno-one/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vaibhavisno-one/leetcode/tree/master/0169-majority-element) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vaibhavisno-one/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vaibhavisno-one/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vaibhavisno-one/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaibhavisno-one/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vaibhavisno-one/leetcode/tree/master/0066-plus-one) |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/vaibhavisno-one/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavisno-one/leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vaibhavisno-one/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vaibhavisno-one/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vaibhavisno-one/leetcode/tree/master/0148-sort-list) |
