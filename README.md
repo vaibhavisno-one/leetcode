@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavisno-one/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vaibhavisno-one/leetcode/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavisno-one/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavisno-one/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
