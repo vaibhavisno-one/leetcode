@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1922-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/vaibhavisno-one/leetcode/tree/master/2050-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhavisno-one/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/vaibhavisno-one/leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhavisno-one/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vaibhavisno-one/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaibhavisno-one/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/vaibhavisno-one/leetcode/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
