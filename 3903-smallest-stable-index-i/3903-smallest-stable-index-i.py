@@ -1,20 +1,21 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
-        n=len(nums)-1
-        i=0
-        num_max=-1
-        count=0
+        n=len(nums)
+
+        vmax=[0]*n
+        vmin=[inf]*n
+        vmax[0]=nums[0]
+
+        for i in range(1,n):
+            vmax[i]=max(nums[i],vmax[i-1])
         
-        
-        while i <= n:
-            num_max=max(num_max,nums[i])
-            num_min=inf
-            for j in range(i,n+1):
-                num_min=min(num_min,nums[j])
-            
-            if num_max-num_min<=k:
+        vmin[n-1]=nums[n-1]
+
+        for i in range(n-2,-1,-1):
+            vmin[i]=min(nums[i],vmin[i+1])
+
+        for i in range(n):
+            if vmax[i]-vmin[i]<=k:
                 return i
-            
-            i+=1
-    
-        return -1
+
+        return -1        
