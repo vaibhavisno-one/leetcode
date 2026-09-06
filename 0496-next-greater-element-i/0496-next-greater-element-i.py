@@ -1,33 +1,23 @@
-class Solution(object):
-    def nextGreaterElement(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: List[int]
-        """
-        
-        ans=[-1]*len(nums2)
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         st=[]
-
-        for i in range(len(nums2)-1,-1, -1):
-
-            while st and st[-1]<=nums2[i]:
-                st.pop()
-            if st:
-                ans[i]=st[-1]
-
-                
-                
-            st.append(nums2[i])
-
-        dic={}
+        arr=[-1]*len(nums2)
 
         for i in range(len(nums2)):
-            dic[nums2[i]]=ans[i]
+            while st and nums2[st[-1]]< nums2[i]:
 
-        result=[]
+                x=st.pop()
+                arr[x]=nums2[i]
+            st.append(i)
+
+        ge={}
+
+        for i in range(len(arr)):
+            ge[nums2[i]]=arr[i]
+        
+        res=[]
 
         for num in nums1:
-            result.append(dic[num])    
-        
-        return result
+            res.append(ge[num])
+
+        return res
