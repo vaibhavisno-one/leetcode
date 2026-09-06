@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/vaibhavisno-one/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/vaibhavisno-one/leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/vaibhavisno-one/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavisno-one/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhavisno-one/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavisno-one/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/vaibhavisno-one/leetcode/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/vaibhavisno-one/leetcode/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhavisno-one/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/vaibhavisno-one/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vaibhavisno-one/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaibhavisno-one/leetcode/tree/master/0739-daily-temperatures) |
+| [0819-most-common-word](https://github.com/vaibhavisno-one/leetcode/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavisno-one/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavisno-one/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vaibhavisno-one/leetcode/tree/master/0877-stone-game) |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhavisno-one/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavisno-one/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vaibhavisno-one/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/vaibhavisno-one/leetcode/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavisno-one/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2833-furthest-point-from-origin](https://github.com/vaibhavisno-one/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
