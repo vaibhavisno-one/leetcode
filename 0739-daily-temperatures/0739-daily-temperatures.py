@@ -1,22 +1,17 @@
-class Solution(object):
-    def dailyTemperatures(self, temperatures):
-        """
-        :type temperatures: List[int]
-        :rtype: List[int]
-        """
-        
-
-        ans=[0]* len(temperatures)
-
+class Solution:
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         st=[]
-
-        for i in range(len(temperatures) -1,-1,-1):
-            while st and temperatures[st[-1]]<= temperatures[i]:
-                st.pop()
-
-            if st:
-                ans[i] = st[-1]-i
+        n=len(temperatures)
+        arr=[0]*n
+        x=0
+        for i in range(n):
+            while st and temperatures[st[-1]]<temperatures[i]:
+                x=st.pop()
+                arr[x]=i-x
 
             st.append(i)
 
-        return ans
+        return arr
+
+
+
