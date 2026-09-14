@@ -1,4 +1,8 @@
 class Solution:
-    def isRectangleOverlap(self, *A) -> bool:
-        (x1, y1, x2, y2), (X1, Y1, X2, Y2) = A
-        return x1 < X2 and X1 < x2 and y1 < Y2 and Y1 < y2
+    def isRectangleOverlap(self, rect1: List[int], rect2: List[int]) -> bool:
+        return (
+            rect1[0] < rect2[2] and
+            rect1[2] > rect2[0] and
+            rect1[1] < rect2[3] and
+            rect1[3] > rect2[1]
+        )
