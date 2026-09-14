@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/vaibhavisno-one/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaibhavisno-one/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vaibhavisno-one/leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/vaibhavisno-one/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vaibhavisno-one/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavisno-one/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavisno-one/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/vaibhavisno-one/leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavisno-one/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Minimax
 |  |
