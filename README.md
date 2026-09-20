@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaibhavisno-one/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/vaibhavisno-one/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/vaibhavisno-one/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/vaibhavisno-one/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/3174-clear-digits) |
 | [3360-stone-removal-game](https://github.com/vaibhavisno-one/leetcode/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/vaibhavisno-one/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
