@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2057-smallest-index-with-equal-value](https://github.com/vaibhavisno-one/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaibhavisno-one/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaibhavisno-one/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaibhavisno-one/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhavisno-one/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaibhavisno-one/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-stone-removal-game](https://github.com/vaibhavisno-one/leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/vaibhavisno-one/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavisno-one/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaibhavisno-one/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhavisno-one/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/vaibhavisno-one/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vaibhavisno-one/leetcode/tree/master/3871-count-commas-in-range-ii) |
